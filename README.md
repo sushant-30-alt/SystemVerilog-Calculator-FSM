@@ -15,8 +15,6 @@ The GUI provides operand entry, arithmetic operation selection, simulated hardwa
 
 Watch the calculator demonstration:
 
-[▶ View the RTL Calculator Demo](reports/fsm_calculator_gui_demo.mp4)
-
 The demonstration video is included in the `reports/` directory.
 
 ## Key Features
