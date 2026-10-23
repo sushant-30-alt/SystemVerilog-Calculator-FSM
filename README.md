@@ -6,7 +6,8 @@ The calculator performs addition, subtraction, multiplication, and division. It 
 
 ## GUI Preview
 
-![4-Bit SystemVerilog Calculator GUI](reports/calculator_gui.png)
+<img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/169b67d3-5e29-44dd-9029-9e6cc8d5a008" />
+
 
 The GUI provides operand entry, arithmetic operation selection, simulated hardware outputs, FSM visualization, and a Vivado XSim execution monitor.
 
